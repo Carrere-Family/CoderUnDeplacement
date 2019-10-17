@@ -1,0 +1,10 @@
+# Ignorer ...
+# ... les fichiers compilés
+obj/*
+
+# ... les fichiers de sortie
+bin/*
+
+# ... les fichiers projets locaux
+*.depend
+*.layout
